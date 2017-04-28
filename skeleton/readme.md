@@ -21,7 +21,7 @@
 
 ## Back end
 
-[voir backend.md](doc/back.md)
+[voir back.md](doc/back.md)
 
 ## Front end
 
