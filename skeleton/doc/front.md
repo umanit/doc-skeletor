@@ -31,4 +31,4 @@
 
 # Dark side
 
-<Lister les particularités du projet>
+<Lister les cacas du projet>
