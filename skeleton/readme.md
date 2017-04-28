@@ -14,7 +14,7 @@
 [voir backend.md](doc/back.md)
 
 ## Front end
-[voir front.md](doc/back.md)
+[voir front.md](doc/front.md)
 
 ## Environement
 [voir env.md](doc/env.md)
