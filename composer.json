@@ -1,0 +1,14 @@
+{
+    "name": "umanit/doc-skeletor",
+    "description": "UmanIT Doc Skeletor intends to ease documentation consistency amongst projects.",
+    "license": "BSD",
+    "authors": [
+        {
+            "name": "UmanIT",
+            "email": "contact@umanit.Fr"
+        }
+    ],
+    "scripts": {
+        "post-install-cmd": "cp -a skeleton/. ./"
+    }
+}
