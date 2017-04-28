@@ -1,21 +1,22 @@
-# Configuration logicielle
+# Environnement
+## Configuration logicielle
 
-- Mysql|Postgres [v...]
-- php [v...]
+- Mysql|Postgres (avec versions)
+- php (avec version)
   - extensions nécessaires (mcrypt, openssl...) 
 - RabbitMQ
 - ...
 
-# Environnements
+## Serveurs
 
 - Lien suivi Qualif|Préprod
 - Lien suivi Prod
 
-# Installation
+## Installation
 
 <Description pas à pas de l'installation du projet>
 
-# VHost
+## VHost
 
 <VHost à configurer + instructions VHost si nécessaire>
 
