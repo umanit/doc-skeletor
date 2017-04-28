@@ -15,5 +15,5 @@
 ## Front end
 [voir front.md](doc/front.md)
 
-## Environement
+## Environnement
 [voir env.md](doc/env.md)
