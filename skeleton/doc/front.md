@@ -1,34 +1,35 @@
-# Thème
+# Front
+## Thème
 
 <Chemin vers le thème + description si nécessaire>
 
-# Guide de styles
+## Guide de styles
 
 <Lien vers l'accueil du guide de style>
 
-# Framework utilisé
+## Framework utilisé
 
 - Bootstrap
 - Foundation
 - ~~Rayer la mention inutile~~
 
-# Préprocesseur
+## Préprocesseur
 
 - Sass
 - Less
 
-# Description de la grille
+## Description de la grille
 
 <>
 
-# Breakpoints
+## Breakpoints
 
 <>
 
-# Tâches Gulp
+## Tâches Gulp
 
 <>
 
-# Dark side
+## Dark side
 
 <Lister les cacas du projet>
