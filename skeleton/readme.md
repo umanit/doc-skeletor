@@ -2,8 +2,7 @@
 <Ajoutez une description courte du projet, techno (symfony, wordpress TMA ... etc)>
 
 ## Installation
-<Description pas-à-pas de l'installation du projet. Ajoutez une description des dépendances avec les versions.>
-
+[voir Installation](doc/env.md#Installation)
 ## Team
 * CP :
 * Lead-dev :
