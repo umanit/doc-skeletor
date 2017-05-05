@@ -7,8 +7,5 @@
             "name": "UmanIT",
             "email": "contact@umanit.Fr"
         }
-    ],
-    "scripts": {
-        "post-install-cmd": "cp -a skeleton/. ./"
-    }
+    ]
 }
