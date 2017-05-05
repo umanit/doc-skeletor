@@ -27,7 +27,7 @@ Configurez votre fichier composer.json comme suit :
 ```
 Puis, `composer update`
 
-Un fichier readme.md et un répertoir doc seront créés à la racine du projet
+Un fichier readme.md et un répertoire doc seront créés à la racine du projet
 
 ## Note
 
