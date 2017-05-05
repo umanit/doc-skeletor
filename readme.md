@@ -31,7 +31,7 @@ Un fichier readme.md et un répertoire doc seront créés à la racine du projet
 
 ## Note
 
-Cet outil génère un squelette de doc mais celle-ci rester libre, vous modifier la structure et le contenu selon vos besoins.
+Cet outil génère un squelette de doc mais celle-ci peut rester libre, vous pouvez modifier la structure et le contenu selon vos besoins, ceux-ci ne seront pas écrasés.
 
 ## Contribuer
 
