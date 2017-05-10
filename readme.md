@@ -20,7 +20,7 @@ Configurez votre fichier composer.json comme suit :
         "umanit/doc-skeletor": "dev-master"
     },
     "scripts": {
-        "post-install-cmd": "cp -an vendor/umanit/doc-skeletor/skeleton/. ./ || true"
+        "post-update-cmd": "cp -an vendor/umanit/doc-skeletor/skeleton/. ./ || true"
     }
 }
 
