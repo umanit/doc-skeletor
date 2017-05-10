@@ -4,7 +4,7 @@
 
 ## Installation
 
-[voir Installation](doc/env.md#Installation)
+[voir Installation](_doc/env.md#Installation)
 
 ## Intervenants
 
@@ -21,12 +21,12 @@
 
 ## Back end
 
-[voir back.md](doc/back.md)
+[voir back.md](_doc/back.md)
 
 ## Front end
 
-[voir front.md](doc/front.md)
+[voir front.md](_doc/front.md)
 
 ## Environnement
 
-[voir env.md](doc/env.md)
+[voir env.md](_doc/env.md)
