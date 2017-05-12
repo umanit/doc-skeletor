@@ -4,12 +4,15 @@
 
 Doc Skeletor est outil de génération de structure de documentation unifiée au travers de tous les projets UmanIT.
 
-## Usage
+## Installation
 
-Configurez votre fichier composer.json comme suit :
+Assurez vous d'avoir [composer](https://getcomposer.org/) installé sur votre poste.
+
+Si vous n'avez pas de composer.json existant, lancez la commande `composer init`
+
+Ajoutez ces lignes à votre fichier composer.json.
 
 ```javascript
-{
     "repositories": [
         {
             "type": "vcs",
@@ -22,10 +25,8 @@ Configurez votre fichier composer.json comme suit :
     "scripts": {
         "post-update-cmd": "cp -an vendor/umanit/doc-skeletor/skeleton/. ./ || true"
     }
-}
-
 ```
-Puis, `composer update`
+Puis lancez `composer update`
 
 Un fichier readme.md et un répertoire _doc seront créés à la racine du projet
 
