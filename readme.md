@@ -10,18 +10,11 @@ Assurez vous d'avoir [composer](https://getcomposer.org/) installé sur votre po
 
 Si vous n'avez pas de composer.json existant, lancez la commande `composer init`
 
-Ajoutez ces lignes à votre fichier composer.json.
+Puis lancez `composer require umanit/doc-skeletor`
+
+Ajoutez ce script à votre fichier composer.json.
 
 ```javascript
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/umanit/doc-skeletor"
-        }
-    ],
-    "require": {
-        "umanit/doc-skeletor": "dev-master"
-    },
     "scripts": {
         "post-update-cmd": "cp -an vendor/umanit/doc-skeletor/skeleton/. ./ || true"
     }
