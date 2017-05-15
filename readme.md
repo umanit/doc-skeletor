@@ -6,20 +6,10 @@ Doc Skeletor est outil de génération de structure de documentation unifiée au
 
 ## Installation
 
-Assurez vous d'avoir [composer](https://getcomposer.org/) installé sur votre poste.
-
-Si vous n'avez pas de composer.json existant, lancez la commande `composer init`
-
-Puis lancez `composer require umanit/doc-skeletor`
-
-Ajoutez ce script à votre fichier composer.json.
-
-```javascript
-    "scripts": {
-        "post-update-cmd": "cp -an vendor/umanit/doc-skeletor/skeleton/. ./ || true"
-    }
+Depuis le répertoire de votre projet, lancez la commande suivante :
 ```
-Puis lancez `composer update`
+git clone https://github.com/umanit/doc-skeletor/ /tmp/doc-skeletor && cp -an /tmp/doc-skeletor/skeleton/. ./ && rm -rf /tmp/doc-skeletor
+```
 
 Un fichier readme.md et un répertoire _doc seront créés à la racine du projet
 
