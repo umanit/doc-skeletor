@@ -9,8 +9,9 @@
 
 ## Serveurs
 
-- Lien suivi Qualif|Préprod
-- Lien suivi Prod
+- Lien suivi
+- Lien Qualif|Préprod
+- Lien Prod
 
 ## Installation
 
